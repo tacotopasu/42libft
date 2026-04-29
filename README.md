@@ -1,5 +1,3 @@
-*This project has been created as part of the 42 curriculum by joavieir
-
 # Taco's Libft
 
 Before you begin working in Milestone 0, 42 requires you to first implement your own version of a few C library functions (and some external ones too).
